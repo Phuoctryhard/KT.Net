@@ -1,0 +1,12 @@
+C:\Users\LENOVO\Documents\WinformApp.netFrame\102210226_NgoDinhPhuoc\102210226_NgoDinhPhuoc\bin\Debug\102210226_NgoDinhPhuoc.exe.config
+C:\Users\LENOVO\Documents\WinformApp.netFrame\102210226_NgoDinhPhuoc\102210226_NgoDinhPhuoc\bin\Debug\102210226_NgoDinhPhuoc.exe
+C:\Users\LENOVO\Documents\WinformApp.netFrame\102210226_NgoDinhPhuoc\102210226_NgoDinhPhuoc\bin\Debug\102210226_NgoDinhPhuoc.pdb
+C:\Users\LENOVO\Documents\WinformApp.netFrame\102210226_NgoDinhPhuoc\102210226_NgoDinhPhuoc\obj\Debug\102210226_NgoDinhPhuoc.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\WinformApp.netFrame\102210226_NgoDinhPhuoc\102210226_NgoDinhPhuoc\obj\Debug\102210226_NgoDinhPhuoc.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Documents\WinformApp.netFrame\102210226_NgoDinhPhuoc\102210226_NgoDinhPhuoc\obj\Debug\_102210226_NgoDinhPhuoc.Form1.resources
+C:\Users\LENOVO\Documents\WinformApp.netFrame\102210226_NgoDinhPhuoc\102210226_NgoDinhPhuoc\obj\Debug\_102210226_NgoDinhPhuoc.Form2.resources
+C:\Users\LENOVO\Documents\WinformApp.netFrame\102210226_NgoDinhPhuoc\102210226_NgoDinhPhuoc\obj\Debug\_102210226_NgoDinhPhuoc.Properties.Resources.resources
+C:\Users\LENOVO\Documents\WinformApp.netFrame\102210226_NgoDinhPhuoc\102210226_NgoDinhPhuoc\obj\Debug\102210226_NgoDinhPhuoc.csproj.GenerateResource.cache
+C:\Users\LENOVO\Documents\WinformApp.netFrame\102210226_NgoDinhPhuoc\102210226_NgoDinhPhuoc\obj\Debug\102210226_NgoDinhPhuoc.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\WinformApp.netFrame\102210226_NgoDinhPhuoc\102210226_NgoDinhPhuoc\obj\Debug\102210226_NgoDinhPhuoc.exe
+C:\Users\LENOVO\Documents\WinformApp.netFrame\102210226_NgoDinhPhuoc\102210226_NgoDinhPhuoc\obj\Debug\102210226_NgoDinhPhuoc.pdb
